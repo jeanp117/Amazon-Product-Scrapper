@@ -1,4 +1,4 @@
-# Amazon Product Scrapper v1.0.0
+# Amazon Product Scrapper
 
 # ✨ Demo
 
@@ -127,3 +127,6 @@ console.log(producto.getImages());
  description: 'The EVGA GeForce RTX 20-Series Graphics Cards are powered by the all-New NVIDIA Turing architecture to give you incredible New levels of gaming realism, speed, power efficiency, and immersion. With the EVGA GeForce RTX 20-Series gaming cards you get the best gaming experience with next generation graphics performance, ice cold cooling, and advanced overclocking features with the all New EVGA Precision X1 software. The New NVIDIA GeForce RTX GPUs have reinvented graphics and set a New bar for perfrmance. Powered by the New NVIDIA Turing GPU architecture and the revolutionary NVIDI RTX platform, the New graphics cards bring together real-time ray tracing, artificial intelligence, and programmable shading. This is not only a whole New way to experience games - this is the ultimate PC gaming experience.'
 }
 ```
+
+> I am not in any way related to Amazon. This project was done for
+> learning purposes. Scraping is not a practice that follows the TOS of Amazon
