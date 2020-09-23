@@ -1,8 +1,8 @@
 {
-	"name": "amazonproductscrapper",
-	"version": "1.0.0",
+	"name": "amazonproductscraper",
+	"version": "1.0.1",
 	"description": "Get title,name,price,images,description and specs of Amazon Products by URL or text search",
-	"main": "index.js",
+	"main": "build/Product.class.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
